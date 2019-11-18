@@ -1,3 +1,5 @@
+extern crate brain_games;
+
 fn main() {
-    println!("Hello, world!");
+    brain_games::run();
 }
